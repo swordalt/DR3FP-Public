@@ -24,7 +24,10 @@ You are required to download a FFMPEG executable (ffmpeg.exe) yourself. I recomm
 Windows & Android: Download from [GitHub releases](https://github.com/swordalt/DR3FP-Public/releases).<br>
 iOS: Not available yet.<br><br>
 
-Renderer: Download from [GitHub releases](https://github.com/swordalt/DR3FP-Public/releases).
+Renderer (Windows): Download from [GitHub releases](https://github.com/swordalt/DR3FP-Public/releases).
+
+## Source
+The source code for this project is in a private repository due to DR3FV's source also being private.
 
 ## Attribution
 - DR3FV by [JIMENGAME](https://github.com/JIMENGAME) (private project)
